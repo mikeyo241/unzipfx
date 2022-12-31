@@ -13,4 +13,4 @@ Overall, unzipfx.exe is a useful tool for distributing and extracting files from
 
 This was pulled from the original Netbeans Sources before they were removed in current versions.
 
-Bundling the JRE with NetBeans Platform application
+Bundling the JRE with NetBeans Platform application https://netbeans.apache.org/tutorials/nbm-nbi.html

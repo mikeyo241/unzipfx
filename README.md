@@ -7,7 +7,8 @@ Put "unzipsfx.exe", which in the folders in this repo, into the same folder as w
 
 
 To use this on windows open CMD and use this command:
-`copy /B unzipsfx.exe + sample.zip self-extracting-archive.exe`
+
+```copy /B unzipsfx.exe + sample.zip self-extracting-archive.exe```
 
 Overall, unzipfx.exe is a useful tool for distributing and extracting files from ZIP archives, especially when it is not practical or convenient for users to install a separate file decompression utility.
 
